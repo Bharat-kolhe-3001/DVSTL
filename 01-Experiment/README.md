@@ -4,7 +4,7 @@
 
 Power BI is a business analytics tool developed by Microsoft that enables users to visualize data, share insights, and transform raw information into actionable reports and dashboards. It supports a wide variety of data sources and provides interactive features for exploration and analysis.
 
-## Installation
+## Installation 
 
 1. Visit the official Power BI download page: [https://powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)
 2. Download and install *Power BI Desktop*
